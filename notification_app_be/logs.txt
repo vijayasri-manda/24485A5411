@@ -9,3 +9,11 @@
 2026-05-09T06:01:46.502Z GET /notifications?page=1&limit=5
 2026-05-09T06:04:36.247Z GET /notifications
 2026-05-09T06:04:36.652Z GET /notifications
+2026-05-09T06:13:37.123Z GET /notifications
+2026-05-09T06:15:39.848Z GET /notifications?type=event&page=1&limit=5
+2026-05-09T06:24:16.438Z GET /notifications?type=event
+2026-05-09T06:24:59.660Z GET /notifications
+2026-05-09T06:25:01.252Z GET /notifications
+2026-05-09T06:26:26.132Z GET /notifications
+2026-05-09T06:26:28.143Z GET /notifications
+2026-05-09T06:26:50.454Z GET /notifications
