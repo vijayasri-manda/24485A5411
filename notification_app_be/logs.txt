@@ -7,3 +7,5 @@
 2026-05-09T06:01:23.207Z GET /notifications?type=Event
 2026-05-09T06:01:24.442Z GET /notifications?type=Event
 2026-05-09T06:01:46.502Z GET /notifications?page=1&limit=5
+2026-05-09T06:04:36.247Z GET /notifications
+2026-05-09T06:04:36.652Z GET /notifications
